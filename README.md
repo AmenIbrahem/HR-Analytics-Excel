@@ -9,8 +9,6 @@ The project demonstrates strong skills in **data preparation, transformation, an
 
 ---
 
-[![Dashboard](./dashboard.png)](https://github.com/AmenIbrahem/HR-Analytics-Excel/blob/main/dashboard%20.png?raw=true)
-
 ## 🎯 Objectives
 
 * Analyze employee attrition (turnover)
