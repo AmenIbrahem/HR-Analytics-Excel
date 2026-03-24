@@ -9,8 +9,7 @@ The project demonstrates strong skills in **data preparation, transformation, an
 
 ---
 
-## 📸 Dashboard Preview
-![dashboard](dashboard.png)
+![Dashboard](./dashboard.png)
 
 ## 🎯 Objectives
 
